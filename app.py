@@ -137,7 +137,7 @@ if submit_button:
 
 # Footer with local image and credits
 st.markdown("---")
-image = Image.open(r"C:\Users\haren\OneDrive1\Desktop\Group_8_BDA\Map.png")
+image = Image.open("img.jpeg")
 st.image(image, caption="Water Quality Assessment Map", use_column_width=True)
 
 st.markdown(
