@@ -1,0 +1,2 @@
+streamlit==1.25.0  # Adjust version based on your installed Streamlit version
+pillow==10.0.0     # For handling image files (PIL)
